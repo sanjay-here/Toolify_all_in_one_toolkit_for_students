@@ -66,8 +66,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
 
-   git clone https://github.com/sanjay-here/Toolify_all_in_one_toolkit_for_students.git
-   cd toolify
+    git clone https://github.com/sanjay-here/Toolify_all_in_one_toolkit_for_students.git
 
 Install dependencies
 
