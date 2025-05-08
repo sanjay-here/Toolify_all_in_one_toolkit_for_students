@@ -2,10 +2,6 @@
 
 **Toolify** is a feature-rich, frontend-only web application built with **React**, offering a comprehensive collection of utility tools for everyday use. No login, no backend — just fast, reliable tools in a clean, user-friendly interface.
 
-## 🚀 Live Demo
-
-👉 [Launch Toolify](https://your-deployment-url.com)
-
 ## ✨ What's Inside?
 
 Toolify provides a diverse suite of 20+ tools to make your daily calculations and conversions easier:
@@ -53,14 +49,6 @@ Toolify provides a diverse suite of 20+ tools to make your daily calculations an
 | Tailwind CSS   | Utility-first CSS framework |
 | React Hooks    | Component state & side-effects |
 | HTML5 & JS     | Core web technologies       |
-
-
-## 🧑‍💻 Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/toolify.git
-   cd toolify
 
 
 ## ⚙️ How to Run Locally
