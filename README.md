@@ -1,3 +1,5 @@
+[Live Demo](https://toolify-all-in-one-toolkit-for-stud.vercel.app/)
+
 # Toolify 🔧 — Your All-in-One Web Utility Toolbox
 
 **Toolify** is a feature-rich, frontend-only web application built with **React**, offering a comprehensive collection of utility tools for everyday use. No login, no backend — just fast, reliable tools in a clean, user-friendly interface.
