@@ -11,7 +11,7 @@ export default function HomePage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex justify-center mb-12">
           <img 
-            src="/toolifyhead.PNG" 
+            src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770462605/toolifyhead_vnunco.png" 
             alt="Toolify Logo" 
             className="max-w-[200px] w-full h-auto"
           />
